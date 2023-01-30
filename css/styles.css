@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    background-color: #3D5656;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #FED049;
+}
+
+.top-container {
+    background-image: url("/images/Frontend\ Wb\ Developer.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 660px;
+    width: 100%;
+    position: relative;
+    bottom: 35px;
+}
+
+h1 {
+    font-size: 313.5%;
+    font-family: cursive;
+    margin-bottom: 0;
+}
+
+hr {
+    border-color: #CFFDE1;
+    border-style: dotted none none;
+    border-width: 12px;
+    width: 8%;
+    margin: 50px auto 50px auto;
+}
+
+.top-container-text {
+    position: relative;
+    top: 30%;
+    display: inline;
+}
+
+img {
+    width: 300px;
+}
+
+a {
+    color: #FED049;
+}
+
+a:hover {
+    color: #CFFDE1;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.web-dev {
+    width: 36%;
+    float: left;
+    margin-right: 40px;
+}
+
+.cooking {
+    float: right;
+    width: 36%;
+    margin-left: 40px;
+}
+
+.button {
+    margin-top: 50px;
+}
+
+.btn {
+    border-radius: 11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #3D5656;
+    font-size: 18px;
+    background: #CFFDE1;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #FED049;
+    text-decoration: none;
+  }
+
+.bottom-container {
+    background-color: #68B984;
+    margin-top: 75px;
+    padding: 50px;
+}
+
+.logos {
+    width: 30px;
+    margin: auto 20px auto 20px;
+}
