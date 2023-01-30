@@ -7,7 +7,7 @@ body {
 }
 
 .top-container {
-    background-image: url("images/Frontend\ Wb\ Developer.png");
+    background-image: url("/images/Frontend\ Wb\ Developer.png");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 660px;
@@ -56,14 +56,14 @@ a:hover {
 }
 
 .web-dev {
-    width: 36%;
+    width: 40%;
     float: left;
     margin-right: 40px;
 }
 
 .cooking {
     float: right;
-    width: 36%;
+    width: 40%;
     margin-left: 40px;
 }
 
