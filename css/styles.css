@@ -7,7 +7,7 @@ body {
 }
 
 .top-container {
-    background-image: url("/images/Frontend Wb Developer.png");
+    background-image: url("../images/Frontend Wb Developer.png");
     background-size: 100%;
     background-repeat: no-repeat;
     height: 660px;
